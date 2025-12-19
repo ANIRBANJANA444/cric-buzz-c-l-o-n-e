@@ -1,1 +1,2 @@
-# cric-buzz-c-l-o-n-e
+# cricbuzz clone project
+this is a simple clone project on cricbuzz.
